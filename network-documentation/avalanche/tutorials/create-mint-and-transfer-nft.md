@@ -6,7 +6,7 @@ description: Learn how to create, mint and transfer an NFT on Avalanche
 
 ## Introduction
 
-Avalanche is a global financial network for the issuance and trade of digital goods. On Avalanche, these digital goods are represented as tokens, which can be assets or utilities. Some tokens are **fungible**, which means that one token is interchangeable for any other one token. Real-world currency is fungible, for example; one $5 note is treated as being the same as any other $5 note.
+Avalanche is a global financial network for the issuance and trade of digital goods. On Avalanche, these digital goods are represented as tokens, which can be assets or utilities. Some tokens are **fungible**, which means that one token is interchangeable for any other one token. Real-world currency is fungible, for example; one $5 note is treated as being the same as any other $5 note but let's say for AVAX the value is not constant it changes as its financial network grows.
 
 Avalanche also supports non-fungible tokens \(NFTs\). By definition, each NFT is unique and not perfectly interchangeable for any other NFT. For example, there could be an NFT that represents ownership of a real-world piece of art; each piece of art, like each NFT, is unique. NFTs represent digital scarcity and may prove to have even greater utility than traditional fungible tokens.
 
