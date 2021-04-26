@@ -37,8 +37,10 @@ When you click on Access button, you will be directed to a new window "Generate 
 This list of code will help to access your account( do not share it with anyone)
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/capture-key-phrase.PNG)
 After Generating and capturing the list of codes, you will again needd to verify the the key-phrase( list of codes), where you have to fill in the blanks in order to access your account.
- Now, you can access your acount. Click access and you will be directed to account window. 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/accessing-your-wallet.PNG)
+
+Now, you can access your acount. Click access and you will be directed to account window. 
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/your-wallet.PNG)
 
 Besides the name and the ticker, you will need to enter **Number of Groups**, that is, how many distinct collectibles will the newly created family hold. Choose carefully, because once created, the parameters of the collectible family cannot be changed.
 
