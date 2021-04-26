@@ -46,17 +46,16 @@ Now, you can access your acount. Click access and you will be directed to accoun
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/your-wallet.PNG)
 
+### Mint NFTs
+
 Before Minting, Go to Studio tab as shown below- you will see a heading " Collectibles", in which two section are provided 
 1. New family 
 2. Mint collectibles
+
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/studio-collectibles.PNG)
+
+When you decided upon the name, ticker, and number of groups, press **Create** to actually create the collectible family. The transaction fee will be deducted from your wallet's balance. When the family is created, you will see the transaction ID \(TxID\), as well as parameters for the family. You can use the TxID to look up the transaction in [the explorer](https://explorer.avax.network/)
 Besides the name and the ticker, you will need to enter **Number of Groups**, that is, how many distinct collectibles will the newly created family hold. Choose carefully, because once created, the parameters of the collectible family cannot be changed.
-
-When you decided upon the name, ticker, and number of groups, press **Create** to actually create the collectible family. The transaction fee will be deducted from your wallet's balance. When the family is created, you will see the transaction ID \(TxID\), as well as parameters for the family. You can use the TxID to look up the transaction in [the explorer](https://explorer.avax.network/), but it is not necessary to write it down.
-
-Press **Back to Studio** to return, and we're ready to create our first collectibles. Press **Mint Collectible**.
-
-### Mint NFTs
 
 After pressing **Mint Collectible** you will be presented with a list of all the Collectible families that still have Collectible groups that have not been created yet
 as shown in above image.
@@ -77,6 +76,10 @@ copy  the address from your avalanche wallet and paste it in the address bar, yo
 Select the family we have just created. You will be presented with a form to fill out with the parameters of the new collectible:
 
 ![](../../../.gitbook/assets/nft-studio-04-mint.png)
+
+Press **Back to Studio** to return, and we're ready to create our first collectibles. Press **Mint Collectible**.
+
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-collectible.PNG)
 
 By default, a **Generic** type of collectible will be selected. That is an NFT that has a **Title**, **URL** for the image, and a **Description**. Enter the required data, as well as the **Quantity**, which will determine how many copies of the collectible will be created, and therefore, how many of them you will be able to send. As before, enter the data carefully, you won't be able to change anything once collectibles are minted. You will see a preview of the data where you can check how your collectible will look like.
 
