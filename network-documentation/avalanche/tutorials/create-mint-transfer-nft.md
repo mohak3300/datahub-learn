@@ -34,7 +34,7 @@ This will open the NFT Studio. There you have two options: **New Family**, for t
 
 There you will be asked to enter the name of your collectible family, as well as a symbol \(ticker\). Names do not have to be unique.
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/your-wallet.PNG)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/accessing-your-wallet.PNG)
 
 Besides the name and the ticker, you will need to enter **Number of Groups**, that is, how many distinct collectibles will the newly created family hold. Choose carefully, because once created, the parameters of the collectible family cannot be changed.
 
