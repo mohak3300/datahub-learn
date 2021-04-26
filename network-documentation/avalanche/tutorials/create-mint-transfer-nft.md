@@ -26,7 +26,7 @@ To make experimenting with the creation and exchange of NFTs easier, we have bui
 
 To access the **NFT Studio**, log into your Avalanche Wallet, and on the left side select **Studio**:
 
-![](../../../.gitbook/assets/nft-studio-01-select.png)
+![](../../../.gitbook/assets/create-new-wallet.png)
 
 This will open the NFT Studio. There you have two options: **New Family**, for the creation of a new family of NFTs, and **Mint Collectible** for creating new assets in existing families. We need to create our first family of NFTs, so click **New Family**.
 
@@ -34,7 +34,7 @@ This will open the NFT Studio. There you have two options: **New Family**, for t
 
 There you will be asked to enter the name of your collectible family, as well as a symbol \(ticker\). Names do not have to be unique.
 
-![](../../../.gitbook/assets/nft-studio-02-family.png)
+![](../../../.gitbook/assets/accessing-your-wallet.png)
 
 Besides the name and the ticker, you will need to enter **Number of Groups**, that is, how many distinct collectibles will the newly created family hold. Choose carefully, because once created, the parameters of the collectible family cannot be changed.
 
