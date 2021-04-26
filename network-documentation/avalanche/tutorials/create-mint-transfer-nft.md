@@ -26,7 +26,7 @@ To make experimenting with the creation and exchange of NFTs easier, we have bui
 
 To access the **NFT Studio**, log into your Avalanche Wallet, and on the left side select **Studio**:
 
-![](../../../.gitbook/assets/create-new-wallet.png)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-wallet.PNG)
 
 This will open the NFT Studio. There you have two options: **New Family**, for the creation of a new family of NFTs, and **Mint Collectible** for creating new assets in existing families. We need to create our first family of NFTs, so click **New Family**.
 
