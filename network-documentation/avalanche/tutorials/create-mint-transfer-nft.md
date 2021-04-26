@@ -107,11 +107,11 @@ For each Generic collectible, a picture will be shown, along with the title, and
 
 If you select a collectible by clicking on it, you will see which group it belongs to, its quantity, along with the **Send** button.
 
-## Send NFTs
+## Send & Transfer NFTs
 
 To send your collectible to someone, either click the **Send** button on the selected collectible in the Portfolio, or navigate to **Send** tab on the left-hand side menu, and click **Add Collectible**:
 
-![](../../../.gitbook/assets/nft-studio-09-send.png)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/send-nft-different-address.PNG)
 
 You will be presented with a menu to select a collectible you wish to send.
 
@@ -119,9 +119,11 @@ You will be presented with a menu to select a collectible you wish to send.
 
 You can send multiple collectibles in a single transaction. Clicking the label on the collectible will let you edit the number of copies you wish to send. You can send multiple families and collectible types in a single transaction.
 
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/confirm-transcation.png)
+
 When you have entered the destination address, and optionally entered the memo text, press **Confirm** to initiate the transaction.
 
-![](../../../.gitbook/assets/nft-studio-11-send-transaction-1-.png)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/complete-transaction-of-nft.PNG)
 
 After pressing **Send Transaction** it will be published on the network, and the transaction fee will be deducted from your balance. Collectibles will be deposited into the destination address shortly after.
 
