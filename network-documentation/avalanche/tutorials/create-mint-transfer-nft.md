@@ -26,7 +26,7 @@ To make experimenting with the creation and exchange of NFTs easier, we have bui
 
 To access the **NFT Studio**, log into your Avalanche Wallet, and on the left side select **Studio**:
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-wallet.PNG)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-wallet.png)
 
 This will open the NFT Studio. There you have two options: **New Family**, for the creation of a new family of NFTs, and **Mint Collectible** for creating new assets in existing families. We need to create our first family of NFTs, so click **New Family**.
 
@@ -36,11 +36,15 @@ There you will be asked to enter the name of your collectible family, as well as
 When you click on Access button, you will be directed to a new window "Generate key Phrase", where you will see a list of key codes and need to save or capture the given set of 12-16 words somewhere safe.
 This list of code will help to access your account( do not share it with anyone)
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/capture-key-phrase.PNG)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/generate-new-key.png)
+
+you will be directed to your key phrase window,
+
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/your-key-phrase.png)
 
 After Generating and capturing the list of codes, you will again needd to verify the the key-phrase( list of codes), where you have to fill in the blanks in order to access your account.
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/accessing-your-wallet.PNG)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/verify-key-phrase.png)
 
 Now, you can access your acount. Click access and you will be directed to account window. 
 
