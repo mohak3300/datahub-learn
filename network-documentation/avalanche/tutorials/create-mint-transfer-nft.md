@@ -148,7 +148,7 @@ You can send multiple collectibles in a single transaction. Clicking the label o
 
 When you have entered the destination address, and optionally entered the memo text, press **Confirm** to initiate the transaction.
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/transaction-history.png)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/confirm-transcation.png)
 
 After pressing **Send Transaction** it will be published on the network, and the transaction fee will be deducted from your balance. Collectibles will be deposited into the destination address shortly after.
 
