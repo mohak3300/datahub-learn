@@ -104,7 +104,7 @@ Select the family we have just created. You will be presented with a form to fil
 Press **Back to Studio** to return, and we're ready to create our first collectibles. Press **Mint Collectible**.
 but if minting is not supported, then you need to create new collectible family as shown below. 
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-collectible.PNG)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/wallet-avax-network.png)
 
 By default, a **Generic** type of collectible will be selected. That is an NFT that has a **Title**, **URL** for the image, and a **Description**. Enter the required data, as well as the **Quantity**, which will determine how many copies of the collectible will be created, and therefore, how many of them you will be able to send. As before, enter the data carefully, you won't be able to change anything once collectibles are minted. You will see a preview of the data where you can check how your collectible will look like.
 
