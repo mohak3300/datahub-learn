@@ -48,7 +48,23 @@ After Generating and capturing the list of codes, you will again needd to verify
 
 Now, you can access your acount. Click access and you will be directed to account window. 
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/your-wallet.PNG)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/access-wallet.png)
+
+In your avalanche wallet window , you will see-
+1. Balance
+2. Assets
+3. Wallet Address
+4. Transaction & Transaction History
+
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/avalanche-wallet.png)
+On the right side bar, you will have other options too, like
+1. Send
+2. Earn
+3. Crosschain
+5. Studio
+6. Activity
+7. Manage keys 
+8. Advanced
 
 ### Mint NFTs
 
@@ -56,7 +72,11 @@ Before Minting, Go to Studio tab as shown below- you will see a heading " Collec
 1. New family 
 2. Mint collectibles
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/studio-collectibles.PNG)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/avalanche-studio.PNG)
+
+with reference to above image, go and click on Studio, where you have to create new family if you are a new user.
+
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-family-studio.png)
 
 When you decided upon the name, ticker, and number of groups, press **Create** to actually create the collectible family. The transaction fee will be deducted from your wallet's balance. When the family is created, you will see the transaction ID \(TxID\), as well as parameters for the family. You can use the TxID to look up the transaction in [the explorer](https://explorer.avax.network/)
 Besides the name and the ticker, you will need to enter **Number of Groups**, that is, how many distinct collectibles will the newly created family hold. Choose carefully, because once created, the parameters of the collectible family cannot be changed.
@@ -65,9 +85,9 @@ After pressing **Mint Collectible** you will be presented with a list of all the
 as shown in above image.
 you need to create new mint, by providing a name, a code, and number of groups. 
 Note- (a fee of 0.1 Avax will be deducted from your balance), to give it a test, folllow below steps -  
-to get Avax coin, you need to change from mainet to Fuji test network.
+to get Avax coin, you need to change network setting from mainet to Fuji-test network.
 
-![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/mainet-to-fuji-test-network.PNG)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/change-network-to-fuji.png)
 
 Go to Avax faucnet-
 
@@ -79,9 +99,10 @@ copy  the address from your avalanche wallet and paste it in the address bar, yo
 
 Select the family we have just created. You will be presented with a form to fill out with the parameters of the new collectible:
 
-![](../../../.gitbook/assets/nft-studio-04-mint.png)
+![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/mint-collectibles.png)
 
 Press **Back to Studio** to return, and we're ready to create our first collectibles. Press **Mint Collectible**.
+but if minting is not supported, then you need to create new collectible family as shown below. 
 
 ![](https://github.com/Devilla/datahub-learn/blob/master/.gitbook/assets/create-new-collectible.PNG)
 
